@@ -1,0 +1,4 @@
+# C-Program-to-Demonstrate-Input-and-Output
+This program shows how to use printf() (for output) and scanf() (for input) in C.<br>
+-In scanf(), use & (ampersand) before variable name for numbers (int, float, etc.).<br>
+-For strings, & is not needed.<br>
